@@ -1,0 +1,119 @@
+body{
+  background-color: rgb(225, 225, 225);
+}
+.header{
+  position: absolute;
+width: 1060px;
+height: 60px;
+  top: 0px;
+  /* border: solid black; */
+  background: #FFFFFF;
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+  
+  
+}
+.airbnb{
+  width: 100px;
+}
+.macaroon{
+  position: absolute;
+  width: 73.52px;
+  height: 63.88px;
+  left: 157.75px;
+  top: 103.23px;
+  border-radius: 8.95px;
+}
+.jump{
+  position: absolute;
+  width: 72.31px;
+  height: 97.02px;
+  left: 157.75px;
+  top: 175.54px;
+  border-radius: 8.95px;
+}
+.salt{
+  position: absolute;
+width: 72.91px;
+height: 96.42px;
+left: 238.5px;
+top: 126.13px;
+border-radius: 8.95px;
+}
+.sing{
+  position: absolute;
+width: 80px;
+height: 88.7px;
+left: 392.59px;
+top: 218.93px;
+border-radius: 8.95px; 
+}
+.swim{
+  position: absolute;
+width: 72.31px;
+height: 97.02px;
+left: 315.59px;
+top: 200.93px;
+border-radius: 8.95px;
+}
+.music{
+  position: absolute;
+width: 72.91px;
+height: 99.02px;
+left: 319.85px;
+top: 100px;
+border-radius: 8.95px;
+}
+.yog{
+  position: absolute;
+width: 72.31px;
+height: 96.42px;
+left: 398.59px;
+top: 114.08px;
+border-radius: 8.95px;
+}
+
+.gituar{
+  position: absolute;
+width: 72.91px;
+height: 96.42px;
+left: 238.5px;
+top: 231.58px;
+border-radius: 8.95px;
+}
+
+.cooking{
+  position: absolute;
+width: 72.31px;
+height: 96.42px;
+left: 77px;
+top: 144.81px;
+border-radius: 8.95px;
+}
+.main-pics{
+  margin-left: 20%;
+position: absolute;
+top: 20%;
+transform: translate(0, -50);
+}
+.h1{
+margin-left: 30%;
+  top: 85%;
+  position: absolute;
+}
+.h6{
+  position: absolute;
+  top: 95%;
+  font-style: italic;
+  font-weight: 20;
+  margin-left: 30%;
+}
+
+.foot{
+margin-left: 30%;
+  top: 120%;
+  position: absolute;
+  width: 40%;
+  height: 40%;
+}
+
+
